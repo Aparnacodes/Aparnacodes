@@ -4,12 +4,13 @@
 - 🧠 I’m a Backend Developer and System Design Enthusiast.
 - 🌱 I’m constantly learning and contributing to **Open-Source Projects**.
 - 📫 How to reach me: [Email](aparnasah2006@gmail.com) | [LinkedIn](www.linkedin.com/in/aparnakri)
-- ⚡ Fun fact: I love Cooking, Gaming and I’m passionate about Personal Finance & Self-Growth!
+- ⚡ Fun fact: I love Cooking, listening to Podcasts, Travelling and I’m passionate about Personal Finance & Self-Growth!
 
 ---
 
 ## 🚀 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,mongodb,firebase,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,mysql,java,spring,maven,postman" />
+
 
 ---
 
