@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Aparna!
 
-- 👩‍💻 I’m currently working as a Software Engineer.
-- 🧠 I’m a Backend Developer and System Design Enthusiast.
-- 🌱 I’m constantly learning and contributing to **Open-Source Projects**.
+- 👩‍💻 I’m currently working as a Associate Software Engineer.
+- 🧠 I’m primarly a Backend Developer and FullStack developer Enthusiast.
+- 🌱 I’m constantly learning and contributing to meaningfull projects.
 - 📫 How to reach me: [Email](aparnasah2006@gmail.com) | [LinkedIn](www.linkedin.com/in/aparnakri)
 - ⚡ Fun fact: I love Cooking, listening to Podcasts, Travelling and I’m passionate about Personal Finance & Self-Growth!
 
